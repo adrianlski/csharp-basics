@@ -1,0 +1,7 @@
+C:\training\CSharpBP-Basics\AcmeApp\Acme.Biz\bin\Debug\Acme.Biz.dll
+C:\training\CSharpBP-Basics\AcmeApp\Acme.Biz\bin\Debug\Acme.Biz.pdb
+C:\training\CSharpBP-Basics\AcmeApp\Acme.Biz\bin\Debug\Acme.Common.dll
+C:\training\CSharpBP-Basics\AcmeApp\Acme.Biz\bin\Debug\Acme.Common.pdb
+C:\training\CSharpBP-Basics\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.csprojResolveAssemblyReference.cache
+C:\training\CSharpBP-Basics\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.dll
+C:\training\CSharpBP-Basics\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.pdb

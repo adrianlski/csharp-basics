@@ -1,0 +1,13 @@
+C:\training\CSharpBP-Basics\AcmeApp\Acme.Win\bin\Debug\Acme.Win.exe.config
+C:\training\CSharpBP-Basics\AcmeApp\Acme.Win\bin\Debug\Acme.Win.exe
+C:\training\CSharpBP-Basics\AcmeApp\Acme.Win\bin\Debug\Acme.Win.pdb
+C:\training\CSharpBP-Basics\AcmeApp\Acme.Win\bin\Debug\Acme.Biz.dll
+C:\training\CSharpBP-Basics\AcmeApp\Acme.Win\bin\Debug\Acme.Common.dll
+C:\training\CSharpBP-Basics\AcmeApp\Acme.Win\bin\Debug\Acme.Biz.pdb
+C:\training\CSharpBP-Basics\AcmeApp\Acme.Win\bin\Debug\Acme.Common.pdb
+C:\training\CSharpBP-Basics\AcmeApp\Acme.Win\obj\Debug\Acme.Win.csprojResolveAssemblyReference.cache
+C:\training\CSharpBP-Basics\AcmeApp\Acme.Win\obj\Debug\Acme.Win.Properties.Resources.resources
+C:\training\CSharpBP-Basics\AcmeApp\Acme.Win\obj\Debug\Acme.Win.VendorWin.resources
+C:\training\CSharpBP-Basics\AcmeApp\Acme.Win\obj\Debug\Acme.Win.csproj.GenerateResource.Cache
+C:\training\CSharpBP-Basics\AcmeApp\Acme.Win\obj\Debug\Acme.Win.exe
+C:\training\CSharpBP-Basics\AcmeApp\Acme.Win\obj\Debug\Acme.Win.pdb

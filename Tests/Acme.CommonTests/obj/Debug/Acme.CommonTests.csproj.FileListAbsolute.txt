@@ -1,0 +1,8 @@
+C:\training\CSharpBP-Basics\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Acme.CommonTests.dll
+C:\training\CSharpBP-Basics\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Acme.CommonTests.pdb
+C:\training\CSharpBP-Basics\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Acme.Common.dll
+C:\training\CSharpBP-Basics\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\training\CSharpBP-Basics\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Acme.Common.pdb
+C:\training\CSharpBP-Basics\AcmeApp\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.csprojResolveAssemblyReference.cache
+C:\training\CSharpBP-Basics\AcmeApp\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.dll
+C:\training\CSharpBP-Basics\AcmeApp\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.pdb
